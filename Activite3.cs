@@ -13,7 +13,7 @@ namespace CasserMotDePasseAlphaForceBrute
          * 
          * affichez toutes les lettres minuscules de l’alphabet (de a à z) grâce à une boucle for
          * */
-        public static void Main(string[] args)
+        public static void init()
         {
             for (int i = 97; i < 123; i++)
             {

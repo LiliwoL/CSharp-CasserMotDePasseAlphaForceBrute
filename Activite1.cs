@@ -11,7 +11,7 @@ namespace CasserMotDePasseAlphaForceBrute
         /**
          * ACTIVITE 1
          * */
-        public static void Main(string[] args)
+        public static void init()
         {
             // caractère de code ASCII 97        
             char lettre = (char)97;

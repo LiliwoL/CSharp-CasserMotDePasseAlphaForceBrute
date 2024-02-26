@@ -11,7 +11,7 @@ namespace CasserMotDePasseAlphaForceBrute
         /**
          * ACTIVITE 2
          * */
-        public static void Main(string[] args)
+        public static void init()
         {
             char lettre = (char)97;
             System.Console.WriteLine(lettre);

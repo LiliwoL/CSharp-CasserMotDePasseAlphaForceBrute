@@ -15,7 +15,7 @@ namespace CasserMotDePasseAlphaForceBrute
          * 
          * et essayer de le trouver par force brute avec une boucle **for** (ou **while**). 
          * */
-        public static void Main(string[] args)
+        public static void init()
         {
             Random rnd = new Random();
             // génère un code ASCII entre 97 et 122
